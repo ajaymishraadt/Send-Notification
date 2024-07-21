@@ -1,10 +1,10 @@
-package com.sendNotification;
+package com.notification.notification;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SendNotificationApplicationTests {
+class NotificationApplicationTests {
 
 	@Test
 	void contextLoads() {
